@@ -1,0 +1,10 @@
+{
+  "name": "RCCM試験対策",
+  "short_name": "RCCM対策",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1f5fbf",
+  "lang": "ja",
+  "description": "RCCM試験対策用Webアプリ"
+}
